@@ -1,2 +1,2 @@
 # React-Project2
-This is all about weather application
+This is  Weather Application using React js.
